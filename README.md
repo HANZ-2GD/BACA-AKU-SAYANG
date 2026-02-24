@@ -26,7 +26,7 @@ PROFILE
 </p>
 </p>
 
-<a href="teer.id/hwmodswa" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
+</a>
 </p>
 <p align="center"> </p> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </p> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </p>
  </p> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> </p> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </p> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
@@ -62,7 +62,7 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/hwmodsbotz/baseikal.git
+git clone 𝘏𝘈𝘕𝘡-2𝘎𝘋
 pkg install yarn
 yarn
 npm start
