@@ -33,9 +33,9 @@ PROFILE
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- 𝘮𝘺 𝘯𝘢𝘮𝘦 𝘏𝘢𝘯𝘻
 </p>
-- Hello All 👋
+- 𝘏𝘢𝘭𝘭𝘰 𝘴𝘦𝘮𝘶𝘢 👋
 <br>
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
