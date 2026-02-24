@@ -21,7 +21,6 @@ PROFILE
 <h4><font size="2"><a href="https://www.instagram.com/hanz_932"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 
-</h4>
 <h4><font size="2"><a href="https://www.tiktok.com/hanz_932_"><font color="red">TIKTOK</font>
 </p>
 </p>
